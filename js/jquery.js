@@ -1,6 +1,4 @@
-
 //delay code from executing until all assets loaded
-
 //if read more is clicked
 //prevent default action
 	//slide p down
